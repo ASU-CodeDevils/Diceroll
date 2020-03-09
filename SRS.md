@@ -17,9 +17,9 @@ Table of Contents
   * 1.3 [Definitions, Acronyms and Abbreviations](#13-definitions-acronyms-and-abbreviations)
   * 1.4 [References](#14-references)
 * 2 [Requirements](#2-requirements)
-  * 2.1 [Interface Requirements](#21-interfaces)
-  * 2.2 [Functional Requirements](#22-functional)
-  * 2.3 [Security](#23-security)
+  * 2.1 [Interface Requirements](#21-interface-requirements)
+  * 2.2 [Functional Requirements](#22-functional-requirements)
+  * 2.3 [Security](#23-security-requirements)
 
 
 ## Revision History
