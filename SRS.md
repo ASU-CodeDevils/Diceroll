@@ -40,7 +40,7 @@ The CD Dice Roll application will serve as a platform for Code Devil members to 
 
 ### 1.3 Definitions, Acronyms and Abbreviations
 
-* **CD** - Code Devils, an online Student Organization at the University of Arizona - https://www.codedevils.org .
+* **CD** - Code Devils, an online Student Organization at the Arizona State University - https://www.codedevils.org .
 
 ### 1.4 References
 * **React Framework** - https://reactjs.org/
