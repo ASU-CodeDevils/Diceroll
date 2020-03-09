@@ -1,5 +1,5 @@
 # Software Requirements Specification
-## For <project name>
+## For CD Dice Roll
 
 Version 0.1  
 Prepared by Kevin Moore  
