@@ -1,2 +1,2 @@
 # Diceroll
-This is a repo for the CD branded dice roll app project
+This is a CodeDevils branded dice rolling app. More details coming soon!
