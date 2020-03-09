@@ -55,6 +55,7 @@ The CD Dice Roll application will serve as a platform for Code Devil members to 
 4. The application interface shall contain CD branding.
 5. The application interface shall visually represent the rolling die.
 6. The application interface shall visually represent the roll history of the current game.
+7. The application interface shall have a "dice info" button that will display random dice and other game trivia pulled from Wikipedia.
 
 ### 2.2 Functional Requirements
 1. The application shall allow the ability to set the number of sides a die has.
@@ -64,7 +65,8 @@ The CD Dice Roll application will serve as a platform for Code Devil members to 
 5. The application shall allow for "high variance" dice rolls.
 6. The application shall store dice roll history for the current game.
 7. The application shall allow the option to game dice roll history both locally and to the cloud.
-8. The application should have "Easter Eggs" hidden in the application.
+8. The application shall have "Easter Eggs" hidden in the application.
+9. The application shall have the ability to apply modifiers to rolls.
 
 ### 2.3 Security Requirements
 1.  TODO
