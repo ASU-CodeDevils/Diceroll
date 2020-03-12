@@ -7,7 +7,7 @@ Contributions are always encouraged and welcome!
 3. Commit and push changes regularly with `git commit -m "Write a short meaninful msg."`
 4. When the user story is ready for test, submite a pull request on github.
 
-## Detailed Work-Workflow
+## Detailed Workflow
 - All User Story and feature development will take place in separate branches that will be branched from the Development branch.
   - Each US will be branched and development for that US will be kept separate from the Development branch.
 
